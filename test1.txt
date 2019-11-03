@@ -2,3 +2,5 @@ text cmd
 linh chinh sua
 Tien da cap nhat
 linh 111
+Tien 111
+Tien dep trai
