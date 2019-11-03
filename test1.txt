@@ -1,2 +1,3 @@
 text cmd
 linh chinh sua
+Tien da cap nhat
