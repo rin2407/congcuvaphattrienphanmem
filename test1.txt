@@ -1,2 +1,2 @@
 text cmd
-bao linh chinh sua
+linh chinh sua
