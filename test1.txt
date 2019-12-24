@@ -5,4 +5,8 @@ linh 111
 Tien 111
 Tien dep trai
 quoc pro hihi
+<<<<<<< HEAD
 gggggggggg
+=======
+Stop here i am trying.
+>>>>>>> c19d3a6ae076803cede6893f5bd79144a32995ad
